@@ -1,6 +1,7 @@
 # 🪻 ¡Hola! Soy Crisel Nublo
 ![Banner de Crisel](https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
 ![Saludo Dinámico](https://badgen.net/badge/Saludo/Hola%20Mundo/purple)
+![Saludo](https://img.shields.io/badge/Saludo-Hola%20Mundo-brightgreen)
 
 Soy una **Desarrolladora Web Full Stack** con especialización en **Python** y una **Data Scientist en formación**, además de ser una apasionada **Diseñadora UX/UI**. Me encanta crear soluciones innovadoras que combinan tecnología y diseño para ofrecer experiencias de usuario excepcionales. 🚀
 
