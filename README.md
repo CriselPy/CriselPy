@@ -1,5 +1,5 @@
 # 🪻 ¡Hola! Soy Crisel Nublo
-(https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
+[Banner de Crisel](https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
 
 Soy una **Desarrolladora Web Full Stack** con especialización en **Python** y una **Data Scientist en formación**, además de ser una apasionada **Diseñadora UX/UI**. Me encanta crear soluciones innovadoras que combinan tecnología y diseño para ofrecer experiencias de usuario excepcionales. 🚀
 
