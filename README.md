@@ -2,7 +2,25 @@
 ![Banner de Crisel](https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
 
 
-Soy una **Desarrolladora Web Full Stack** con especialización en **Python** y una **Data Scientist en formación**, además de ser una apasionada **Diseñadora UX/UI**. Me encanta crear soluciones innovadoras que combinan tecnología y diseño para ofrecer experiencias de usuario excepcionales. 🚀
+# ¡Hola! Soy Crisel Nublo
+
+La persona que convierte café en código (y sí, a veces me pregunto si el café tiene algo que ver con los errores que encuentro… o con los que cometo). Soy **Fullstack Developer**, **UX/UI Designer** y **Data Scientist**. En pocas palabras, hago que tus aplicaciones no solo funcionen, sino que también las diseño y las lleno de datos que te harán pensar: "¡Vaya, no sabía que esto era posible!"
+
+Entre mis días de coding maratónico, me muevo entre lenguajes como **Python** y **JavaScript**, y frameworks como **Django** y **React**. Para el diseño, soy fan de **Figma** y **Adobe XD**, y en el mundo de los datos, **Pandas** y **scikit-learn** son mis aliados. Siendo honesta, no soy experta en todo, pero disfruto aprender con cada proyecto. Después de todo, cada nueva herramienta es una excusa para mejorar y divertirme un poco.
+
+Me encanta aprender, ya sea a través de certificaciones o explorando nuevas ideas. Soy la típica persona que, si no está inmersa en un libro, está buceando en tutoriales en línea o renovando sus conocimientos. Cada día es una oportunidad para descubrir algo nuevo y desafiarme a mí misma.
+
+Cuando no estoy atrapada en el mundo digital, me encontrarás en algún rincón escondido buscando la luz perfecta para una foto paisajística o fotos de la naturaleza (reales, por supuesto, sin el propósito de ser una influencer frustrada). ¿Por qué? Porque capturar la belleza del mundo real me recuerda que la vida es tan increíble como cualquier tecnología que construyo.
+
+Vivo en unas islas que podrían haber salido de un cuento, donde la tranquilidad y la paz son la norma. Mi vida es un equilibrio entre el código y el zen. ¡Qué excéntrico suena esto, mirándolo bien! Aunque a veces me pregunto si encontrar la paz es más difícil que resolver un problema de programación, disfrutar de la naturaleza y de una buena lectura es lo que me recarga. Y si mis ojos no me lo permiten (porque, como visual de la old school, me rehúso a usar audiolibros), me encanta perderme en una película o serie. Admitámoslo, el sofá también es un lugar ideal para reflexionar sobre la vida.
+
+¿Alguna vez has soñado con comenzar el día con una caminata al amanecer? Sí, lo sé, quizás sea demasiado temprano, pero eso es prácticamente mi vida y la vida que me encanta vivir. Aunque no siempre estoy en las islas, siempre llevo conmigo esa paz y claridad. Si alguna vez te has preguntado cómo alguien puede sumergirse en tecnología y aún encontrar tiempo para disfrutar de un atardecer, hablemos. ¿Quién diría que el senderismo y el desarrollo web podrían ser una combinación tan perfecta?
+
+Me encantaría compartir cómo balanceo el trabajo y la vida, y cómo reflejo eso en mi trabajo, que al final es de lo que se trata esto. Y, por supuesto, escuchar tus propias historias y perspectivas. Después de todo, nadie nace sabiendo, y el saber no ocupa lugar, como dicen los refranes.
+
+Así que, si buscas a alguien que entienda (o al menos intente) tanto de algoritmos como de las mejores rutas para una caminata, aquí estoy. La vida es una gran aventura de aprendizaje continuo, y estaría encantada de conectar, descubrir nuevas perspectivas contigo, y, si me lo permites, aprender contigo un poco más. ¡Y si puedo aportar algo a tu trabajo, me encantaría ayudarte también!
+
+## Gracias y bienvenidos a mi GitHub.
 
 
 ## 🌟 Habilidades y Tecnologías
