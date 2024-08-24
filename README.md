@@ -26,23 +26,21 @@ Así que, si buscas a alguien que entienda (o al menos intente) tanto de algorit
 ## 🌟 Habilidades y Tecnologías
 ## Habilidades y Herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-007ACC?style=flat&logo=Jupyter&logoColor=white)
-![UX/UI Design](https://img.shields.io/badge/-UX%2FUI%20Design-FF6F61?style=flat&logo=Adobe%20XD&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=flat&logo=figma&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.5.0-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.0-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?style=flat&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-16.0-E10098?style=flat&logo=graphql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.2-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2.40.0-F05032?style=flat&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.26-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ## 🚀 Proyectos Destacados
