@@ -2,7 +2,7 @@
 ![Banner de Crisel](https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
 
 
-# ¡Hola! Encanta de Verte por aquí
+# ¡Hola, Encantada de Verte por aquí!
 
 Soy la persona que convierte café en código (y sí, a veces me pregunto si el café tiene algo que ver con los errores que encuentro… o con los que cometo). Soy **Fullstack Developer**, **UX/UI Designer** y **Data Scientist**. En pocas palabras, hago que tus aplicaciones no solo funcionen, sino que también las diseño y las lleno de datos que te harán pensar: "¡Vaya, no sabía que esto era posible!"
 
@@ -24,6 +24,24 @@ Así que, si buscas a alguien que entienda (o al menos intente) tanto de algorit
 
 
 ## 🌟 Habilidades y Tecnologías
+## Habilidades y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3.9-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-3.2-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-18.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-UI/UX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.0-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-16.0-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.40.0-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.26-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-23%3A239120.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -33,6 +51,23 @@ Así que, si buscas a alguien que entienda (o al menos intente) tanto de algorit
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-007ACC?style=flat&logo=Jupyter&logoColor=white)
 ![UX/UI Design](https://img.shields.io/badge/-UX%2FUI%20Design-FF6F61?style=flat&logo=Adobe%20XD&logoColor=white)
+## Habilidades y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3.9-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-3.2-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-18.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-Design-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-UI/UX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.0-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-16.0-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.40.0-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.26-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
