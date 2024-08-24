@@ -2,9 +2,9 @@
 ![Banner de Crisel](https://github.com/CriselPy/CriselPy/blob/main/Banner%20Crisel.gif)
 
 
-# ¡Hola! Soy Crisel Nublo
+# ¡Hola! Encanta de Verte por aquí
 
-La persona que convierte café en código (y sí, a veces me pregunto si el café tiene algo que ver con los errores que encuentro… o con los que cometo). Soy **Fullstack Developer**, **UX/UI Designer** y **Data Scientist**. En pocas palabras, hago que tus aplicaciones no solo funcionen, sino que también las diseño y las lleno de datos que te harán pensar: "¡Vaya, no sabía que esto era posible!"
+Soy la persona que convierte café en código (y sí, a veces me pregunto si el café tiene algo que ver con los errores que encuentro… o con los que cometo). Soy **Fullstack Developer**, **UX/UI Designer** y **Data Scientist**. En pocas palabras, hago que tus aplicaciones no solo funcionen, sino que también las diseño y las lleno de datos que te harán pensar: "¡Vaya, no sabía que esto era posible!"
 
 Entre mis días de coding maratónico, me muevo entre lenguajes como **Python** y **JavaScript**, y frameworks como **Django** y **React**. Para el diseño, soy fan de **Figma** y **Adobe XD**, y en el mundo de los datos, **Pandas** y **scikit-learn** son mis aliados. Siendo honesta, no soy experta en todo, pero disfruto aprender con cada proyecto. Después de todo, cada nueva herramienta es una excusa para mejorar y divertirme un poco.
 
